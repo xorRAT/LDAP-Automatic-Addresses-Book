@@ -1,0 +1,2 @@
+Author of this code:
+https://www.codeproject.com/Articles/14053/Adding-an-LDAP-address-book-to-MS-Outlook
