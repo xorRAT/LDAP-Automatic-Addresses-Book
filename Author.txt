@@ -1,5 +1,0 @@
-Author of this code:
-https://www.codeproject.com/Articles/14053/Adding-an-LDAP-address-book-to-MS-Outlook
-
-Sorry for my bad english =)
-Maybe this script will help someone
